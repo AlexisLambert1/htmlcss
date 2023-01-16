@@ -1,0 +1,19 @@
+body{
+    background: url("image/pingouin.png") fixed no-repeat top , url("image/feuilles.png") scroll;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 70px;
+    margin-top: 60px;
+}
+
+p {
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    line-height: 40px;
+}
